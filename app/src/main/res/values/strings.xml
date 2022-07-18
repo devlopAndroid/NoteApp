@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="notes_app">Notes App</string>
+    <string name="all_right_reserved">All right reserved</string>
+    <string name="enter_your_title">Title</string>
+    <string name="discription">Discription</string>
+    <string name="update">SAVE</string>
+</resources>
